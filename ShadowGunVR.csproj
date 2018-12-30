@@ -306,6 +306,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\02.Scripts\LookItem.cs" />
     <Compile Include="Assets\02.Scripts\MoveCtrl.cs" />
     <Compile Include="Assets\02.Scripts\WayPointTrack.cs" />
     <Compile Include="Assets\GoogleVR\Demos\Scripts\DemoInputManager.cs" />
